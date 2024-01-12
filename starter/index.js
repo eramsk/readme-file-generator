@@ -6,6 +6,8 @@ const generateMarkdown = require("./utils/generateMarkdown");
 // array of questions for user
 const questions = [
 
+    ])
+
 ];
 
 // function to write README file
