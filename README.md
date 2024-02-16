@@ -14,6 +14,10 @@ create an app on CLI to write a professional README file.
 # GitHub Link:
 https://github.com/eramsk/readme-file-generator.git
 
+# YouTube video link:
+
+https://youtu.be/phSPynkZtfA
+
 # Screenshot:
 ![screenshot1](./starter/images/Screenshot.png)
 
